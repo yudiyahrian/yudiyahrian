@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/-JAVASCRIPT-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-PYTHON-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-PHP-lightgrey?style=plastic"/>
-<img src="https://img.shields.io/badge/-FLUTTER-lightgrey?style=plastic"/>
+<img src="https://img.shields.io/badge/-FLUTTER-lightgrey?style=plastic"/><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudiyahrian&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
 <strong>🚀 My Latest Update :</strong><br><br>

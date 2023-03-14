@@ -1,5 +1,10 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/yudiyahrian">Yudiya Ahrian<a></h1>
-    
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Freelancer;Mobile+App+Developer;Python+Learning;Curious;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
 <p align="center">
     <img width="200" src="https://avatars.githubusercontent.com/u/90446924?s=400&u=74be4ac4e6138634c3f824fbc1cff09d6b74d861&v=4">
 </p>

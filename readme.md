@@ -28,7 +28,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudiyahrian&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
 <strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yudiyahrian&repo=yudiyahrian&theme=radical)](https://github.com/yudiyahrian/yudiyahrian)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yudiyahrian&repo=e-library&theme=radical)](https://github.com/yudiyahrian/yudiyahrian)
 </div>
 
 ------
